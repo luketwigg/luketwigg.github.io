@@ -333,8 +333,8 @@ section {
     float: left;
     height: 71px;
     line-height: 66px;
-    margin: 0 auto;
-    text-align: center;
+    margin-right: 15px;
+    margin-left: 20px;
 }
 
 #logo h1, #logo h2 {
