@@ -786,9 +786,9 @@ h6 {
 
 .banner-video {
     position: absolute;
-    top: 50px;
-    right: 0; 
-    width: 40%; 
+    top: 150px;
+    left: 75px; 
+    width: 60%; 
     height: auto; 
     overflow: hidden;
 }
